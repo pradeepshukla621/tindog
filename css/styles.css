@@ -161,7 +161,7 @@ margin: 5% 3% 5% 0;
 }
 media (max-width: 450px) {
     .cust-card{
-        width: 320px !important;
+        width: 500px !important;
     }
 }
 

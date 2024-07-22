@@ -159,9 +159,9 @@ margin: 5% 3% 5% 0;
     line-height: 1.5;
 
 }
-media (max-width: 450px) {
+@media (max-width: 450px) {
     .cust-card{
-        width: 500px !important;
+        width: 270px !important;
     }
 }
 

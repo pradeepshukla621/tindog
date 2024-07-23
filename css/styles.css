@@ -163,6 +163,10 @@ margin: 5% 3% 5% 0;
     #pricing {
         padding: 100px 0 100px 0;
     }
+    .pricing-row{
+        margin: 0;
+        justify-content: center;
+    }
     .pricing-coloum{
         width: 320px !important;
         padding: 3% 20px; 

@@ -161,7 +161,7 @@ margin: 5% 3% 5% 0;
 }
 @media (max-width: 450px) {
     .pricing-coloum{
-        width: 200px !important;
+        width: 320px !important;
         padding: 3% 20px; 
     }
 }
